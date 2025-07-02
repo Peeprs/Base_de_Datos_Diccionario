@@ -1,3 +1,4 @@
+### Axel Tristan Segundo Magaña
 ### 🎓 Tabla: Estudiante
 
 | Campo        | Tipo de Dato | Tamaño | PK  | FK  | Nulo | Único | Restricciones / CHECK     | Referencia a | Descripción                     |
